@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Ayush Amin
 
 You can use the [editor on GitHub](https://github.com/AyushAmin/AyushAmin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
